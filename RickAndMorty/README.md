@@ -1,1 +1,1 @@
-# RickAndMortyAPiSwift
+# RickAndMortyAPISwift

@@ -5,7 +5,7 @@ Esta aplicación te permite explorar los personajes de la serie "Rick and Morty"
 
 ## Instalación 
 1. Clona este repositorio.
-2. 2. Abre el proyecto en tu entorno de desarrollo.
+2.  2. Abre el proyecto en tu entorno de desarrollo.
 3. Configura las dependencias necesarias.
 4. Ejecuta la aplicación.
 
